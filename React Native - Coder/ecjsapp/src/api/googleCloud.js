@@ -1,0 +1,1 @@
+export const maps_api_key = process.env.EXPO_PUBLIC_CLOUD_API_KEY

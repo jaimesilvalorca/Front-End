@@ -1,0 +1,122 @@
+    [
+        {
+            "id": 1,
+            "title": "Ratched and Clank: Rift Apart",
+            "description": "Ratchet & Clank: Una dimensión aparte ​​​ es un videojuego de plataformas desarrollado...",
+            "price": 19990,
+            "stock": 10,
+            "brand": "PS5",
+            "category": "PLAYSTATION",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/v1691128801/ratchet-clank-una-dimension-aparte-202121117104110_1_isdore.jpg",
+            "images": [
+                "https://sm.ign.com/ign_es/screenshot/default/ratchet-clank-una-dimension-aparte-analisis_2zr5.jpg",
+                "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2020/06/ratchet-clank-rift-apart-ps5-1964805.jpg?tf=3840x",
+                "https://www.discoazul.com/uploads/media/images/ratchet-clank-una-dimension-aparte-ps5-18.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "The legend of Zelda: Breath of the Wild",
+            "description": "The Legend of Zelda: Breath of the Wild es un videojuego exclusivo de Nintendo.",
+            "price": 59990,
+            "stock": 34,
+            "brand": "SWITCH",
+            "category": "NINTENDO",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/f_auto,q_auto/_1973643b_xicrtm",
+            "images": [
+                "https://i.blogs.es/77f53a/link-botw/1366_2000.jpeg",
+                "https://www.latercera.com/resizer/NcpCP1b99pGt8B038E7In2nwySQ=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/IUBDVRIKZJACVADGIC7MNO6WMI.jpg",
+                "https://cdn.forbes.com.mx/2018/05/1-Portada-1-640x360.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Jedi Survivor",
+            "description": "Star Wars Jedi: Survivor es un videojuego de acción y aventuras creado por Respawn Entertainment y lanza...",
+            "price": 29990,
+            "stock": 34,
+            "brand": "PS5",
+            "category": "PLAYSTATION",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/v1691128801/L9_3vmBK-1DJEoCH7gBMERTD7jryH35q_Te4ELL28-4_350x200_1x-0_nr4msa.jpg",
+            "images": [
+                "https://cdn2.unrealengine.com/the-moment-in-star-wars-jedi-survivor-that-will-devastate-you-1920x1080-8d8ae01327e0.jpg",
+                "https://cdn.mos.cms.futurecdn.net/ZLSvewrpmJKEM9NxKFs75D.jpg",
+                "https://media.vandal.net/m/10-2023/11/2023101113152780_1.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Elden Ring",
+            "description": "Elden Ring es el nuevo videojuego de FromSoftware, creadores de Dark Souls, Sekiro o Bloodborne.",
+            "price": 39990,
+            "stock": 43,
+            "brand": "X",
+            "category": "XBOX",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/v1691128801/xbox_o8wdpc.jpg",
+            "images": [
+                "https://static.bandainamcoent.eu/high/elden-ring/elden-ring/03-news/Starter_Guide/Elden_Ring_game_screen.jpg",
+                "https://i.blogs.es/fc72f2/maxresdefault/1366_2000.jpeg",
+                "https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_0,f_auto,q_auto/c_scale,w_1200/redbullcom/2022/3/14/qtttkmfegsdnsm6iwami/elden-ring-dragon"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Elden Ring",
+            "description": "Elden Ring es el nuevo videojuego de FromSoftware, creadores de Dark Souls, Sekiro o Bloodborne.",
+            "price": 39990,
+            "stock": 43,
+            "brand": "PS5",
+            "category": "PLAYSTATION",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/v1691128800/elden-ring-20216121316990_1_iqaccx.jpg",
+            "images": [
+                "https://static.bandainamcoent.eu/high/elden-ring/elden-ring/03-news/Starter_Guide/Elden_Ring_game_screen.jpg",
+                "https://i.blogs.es/fc72f2/maxresdefault/1366_2000.jpeg",
+                "https://img.redbull.com/images/c_crop,w_1920,h_960,x_0,y_0,f_auto,q_auto/c_scale,w_1200/redbullcom/2022/3/14/qtttkmfegsdnsm6iwami/elden-ring-dragon"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Resident Evil: Village",
+            "description": "Resident Evil 8: Village es la octava entrega de Resident Evil, la saga de survival horror de Capcom.",
+            "price": 39990,
+            "stock": 43,
+            "brand": "X",
+            "category": "XBOX",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/f_auto,q_auto/residentevilvillage_3365763b_ziqoqt",
+            "images": [
+                "https://areajugones.sport.es/wp-content/uploads/2020/04/resident-evil-8.jpg",
+                "https://img.youtube.com/vi/H2Oine22rsg/maxresdefault.jpg",
+                "https://sm.ign.com/t/ign_latam/screenshot/default/villa1_12kw.1280.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Resident Evil: Village",
+            "description": "Resident Evil 8: Village es la octava entrega de Resident Evil, la saga de survival horror de Capcom.",
+            "price": 39990,
+            "stock": 43,
+            "brand": "PS5",
+            "category": "PLAYSTATION",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/v1691128801/ps5_cisd7e.jpg",
+            "images": [
+                "https://areajugones.sport.es/wp-content/uploads/2020/04/resident-evil-8.jpg",
+                "https://img.youtube.com/vi/H2Oine22rsg/maxresdefault.jpg",
+                "https://sm.ign.com/t/ign_latam/screenshot/default/villa1_12kw.1280.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Luigi's Mansion 3",
+            "description": "Luigi's Mansion 3 es un videojuego de acción y aventura desarrollado por el estudio canadiense Next Level Games...",
+            "price": 59990,
+            "stock": 1,
+            "brand": "SWITCH",
+            "category": "NINTENDO",
+            "thumbnail": "https://res.cloudinary.com/dszgqyw4c/image/upload/v1691128801/ps5_cisd7e.jpg",
+            "images": [
+                "https://img.redbull.com/images/c_crop,w_1304,h_652,x_0,y_77,f_auto,q_auto/c_scale,w_1200/redbullcom/2019/06/18/6df0b0d9-9288-4452-a4df-9811b3cfe2db/luigi-mansion-3-analisis",
+                "https://f.rpp-noticias.io/2020/01/09/luigi_884859.jpg",
+                "https://cdn.arstechnica.net/wp-content/uploads/2019/10/2019101018022500-0C015090E6C5E3F06D97FEDE95458758-800x450.jpg"
+            ]
+        }
+    ]
