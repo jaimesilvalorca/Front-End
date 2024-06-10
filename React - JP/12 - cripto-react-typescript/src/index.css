@@ -75,8 +75,36 @@ body{
   margin-top: 2rem;
   transition: background-color 300 ease;
   width: 100%;
+  margin-bottom: 2rem;
 }
 
 .form [type="submit"]:hover{
   background-color: #0cb387;
+  
+}
+
+.result-wrapper{
+  margin-top:center;
+  
+}
+
+.result{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  align-items: center;
+  gap:1rem
+}
+
+.result img{
+  width: 100%;
+}
+
+.result p{
+  margin: 0 0 1rem;
+  font-size: 1.6rem;
+}
+
+.result span{
+  font-weight: 700;
+
 }
