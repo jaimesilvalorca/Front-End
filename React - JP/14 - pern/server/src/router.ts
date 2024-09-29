@@ -186,7 +186,7 @@ router.put('/:id',
         .isNumeric().withMessage('Valor no es valido')
         .notEmpty().withMessage('El precio del producto no puede ir vacio')
         .custom(value => value > 0).withMessage('Precio no valido'),
-    body('availability')
+    body('availabitily')
         .isBoolean().withMessage('Valor para disponibilidad no valido'),
     handleInputErrors,
     updateProduct)

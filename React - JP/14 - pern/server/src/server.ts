@@ -2,8 +2,9 @@ import express from 'express'
 import swaggerUi from 'swagger-ui-express'
 import swaggerSpec,{swaggerUiOptions} from './config/swagger'
 import router from './router'
+import morgan from 'morgan'
 import db from './config/db'
-
+import cors,{CorsOptions} from 'cors'
 
 //conectar a base de datos
 
@@ -26,6 +27,20 @@ connectDB()
 //Leer datos de formularios
 const server = express()
 
+// const corsOptions:CorsOptions = {
+//     origin: function(origin,callback){
+//         console.log(origin)
+//         if(origin === process.env.FRONTEND_URL){
+//             callback(null,true)
+//         }else{
+//             callback(new Error('Error de CORS'))
+//         }
+//     }
+// }
+
+// server.use(cors(corsOptions))
+server.use(cors())
+server.use(morgan('dev'))
 server.use(express.json())
 
 
